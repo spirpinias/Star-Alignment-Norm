@@ -1,0 +1,15 @@
+metadata_version: 1
+name: STAR Alignment
+description: "STAR is an aligner designed to specifically address many of the challenges
+  of RNA-seq data mapping using a strategy to account for spliced alignments (meaning
+  that RNA sequences can successfully align to the DNA genome). This capsule will
+  run STAR to map single end or paired end fastq.gz files. \n\nhttps://github.com/alexdobin/STAR"
+tags:
+- STAR
+- Genomics
+- Bulk Sequencing
+- RNA
+- Alignment
+authors:
+- name: Frank Zappulla
+- name: June Snedecor
